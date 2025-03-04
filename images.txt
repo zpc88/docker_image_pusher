@@ -1,4 +1,4 @@
-pocky2460392754/vitepress_local_wiki:latest
+frooodle/s-pdf:0.43.2
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
