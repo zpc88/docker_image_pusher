@@ -1,4 +1,9 @@
-osticket/osticket
+mysql:latest
+redis/redis-stack-server:latest
+apache/activemq-artemis:latest
+docker.elastic.co/elasticsearch/elasticsearch:8.18.0
+openzipkin/zipkin:latest
+minio/minio:latest
 
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
