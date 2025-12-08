@@ -1,4 +1,4 @@
-docker pull --platform linux/arm64  mysql:8.0.36
+docker pull mysql@sha256:a532724022429812ec797c285c1b540a644c15e248579c6bfdf12a8fbaab4964
 
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
